@@ -3,6 +3,7 @@ Inventory system in C using structs, arrays, functions, and loops.
 The program runs in an infinite loop.
 
 This is how the output looks like:
+
 #1
 ![one](https://github.com/TheJashShah/Inventory_system_in_C/assets/78263590/eaf90eab-7f21-4464-b2f8-87baa2fe0de8)
 #2
